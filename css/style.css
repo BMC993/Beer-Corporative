@@ -156,8 +156,8 @@ header  .navbar-nav > li > a {
 
 
 header .nav .caret {
-    border-bottom-color: #2B96CC;
-    border-top-color: #2B96CC;
+    border-bottom-color: #bf8f0c;
+    border-top-color: #bf8f0c;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
@@ -268,9 +268,9 @@ header ul.nav li ul li ul {
   border-bottom-color: none;
   content:none;
 }
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {color: #FFFFFF;background: #2B96CC;border-radius: 0;}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {color: #FFFFFF;background: #bf8f0c;border-radius: 0;}
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-  color: #2B96CC;
+  color: #bf8f0c;
   background-color: transparent;
 }
 
@@ -337,7 +337,7 @@ background:#1891EC;
 border: #609cec 1px solid;
 background:#609cec;
 }
-.skill-home .icons {border-color: #000 !important;padding: 10px 0 0 0;width: 94px;height: 94px;color: #fff;font-size: 42px;font-size: 38px;text-align: center;-ms-border-radius: 50%;-moz-border-radius: 50%;-webkit-border-radius: 50%;border-radius: 0;display: inline-table;border: 1px solid #2B96CC;color: #2B96CC;background: transparent;border-radius: 0 15px 0 0;}
+.skill-home .icons {border-color: #000 !important;padding: 10px 0 0 0;width: 94px;height: 94px;color: #fff;font-size: 42px;font-size: 38px;text-align: center;-ms-border-radius: 50%;-moz-border-radius: 50%;-webkit-border-radius: 50%;border-radius: 0;display: inline-table;border: 1px solid #bf8f0c;color: #bf8f0c;background: transparent;border-radius: 0 15px 0 0;}
 .skill-home h2 {
 padding-top: 20px;
 font-size: 36px;
@@ -753,7 +753,7 @@ form#commentform textarea {
 	color: #000;
 }
 section.section-padding.gray-bg {
-    background: #2B96CC; /*Color about us de la home*/
+    background: #bf8f0c; /*Color about us de la home*/
     padding: 60px;
     color: #fff;
 }
@@ -783,7 +783,7 @@ border-radius: 2px;
 -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.05);
 box-shadow: 0 1px 1px rgba(0,0,0,0.05);
 }
-#accordion-alt3 .panel-heading h4 a i {font-size: 17px;line-height: 18px;width: 18px;height: 18px;margin-right: 8px;color: #2B96CC;text-align: center;border-radius: 50%;margin-left: 6px;font-weight: bold;}  
+#accordion-alt3 .panel-heading h4 a i {font-size: 17px;line-height: 18px;width: 18px;height: 18px;margin-right: 8px;color: #bf8f0c;text-align: center;border-radius: 50%;margin-left: 6px;font-weight: bold;}  
 .progress.pb-sm {
 height: 6px!important;
 }
@@ -815,7 +815,7 @@ background: #32c8de;
 .info-blocks {
 margin-bottom: 15px;
 }
-.info-blocks i.icon-info-blocks {float: left;color: #2B96CC;font-size: 30px;min-width: 50px;margin-top: 7px;text-align: center;background: #E6E6E6;width: 72px;height: 72px;padding-top: 21px;}
+.info-blocks i.icon-info-blocks {float: left;color: #bf8f0c;font-size: 30px;min-width: 50px;margin-top: 7px;text-align: center;background: #E6E6E6;width: 72px;height: 72px;padding-top: 21px;}
 .info-blocks .info-blocks-in {
 padding: 0 10px;
 overflow: hidden;
@@ -866,7 +866,7 @@ blockquote cite a:visited 				{ color:#555; }
 }
 
 /* --- button --- */
-.btn{text-align: center;color: #FFFFFF;padding: 12px 25px;border-radius: 0;background: #2B96CC;}
+.btn{text-align: center;color: #FFFFFF;padding: 12px 25px;border-radius: 0;background: #bf8f0c;}
 .btn-theme {
 	color: #fff;
 	background: transparent;
@@ -1133,7 +1133,8 @@ color: #222;
 .pricing-box-item .pricing-terms  h6 {
 	font-style:italic;
 	margin-top:10px;
-	color: #2B96CC;
+	/*Color de lletres preu*/
+	color:#bf8f0c !important;
 	font-size:17px;
 	font-family:'Noto Serif', serif;
 }
@@ -1163,7 +1164,7 @@ color: #222;
 	padding:30px 0 30px 0;
 }
 .pricing-action .btn{
-	background: #2B96CC;
+	background: #bf8f0c;
 	color: #fff;
 } 
 /* ===== Widgets ===== */
@@ -1520,7 +1521,7 @@ padding-top: 3px;
 	li.active  {
 		border: none;
 		overflow: hidden;
-		background: #2B96CC;
+		background: #bf8f0c;
 }
 
 	
