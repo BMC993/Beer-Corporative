@@ -7,13 +7,6 @@ Note: Licence under Creative Commons Attribution 3.0
 @import url('font-awesome.css');  
 @import url('animate.css');
 
-body {
-	font-family:'Open Sans', Arial, sans-serif;
-	font-size:14px;
-	font-weight:300;
-	line-height:1.6em;
-	color:#656565;
-}
 
 a:active {
 	outline:0;
@@ -28,17 +21,7 @@ a:active {
  font-weight: bold;	
 }
 
-h1,h2{ 
-	font-weight:700;
-	line-height:1.1em;
-	color:#333;
-	margin-bottom: 20px;
-}
-h3, h4, h5, h6 { 
-	line-height:1.1em;
-	color:#333;
-	margin-bottom: 20px;
-}
+
 input, button, select, textarea { 
     border-radius: 0px !important;
 }

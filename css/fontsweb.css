@@ -1,0 +1,24 @@
+body {
+	font-family:'Gill Sans';
+	font-size:14px;
+	font-weight:300;
+	line-height:1.6em;
+	color:#656565;
+}
+
+h1,h2{ 
+	font-weight:700;
+	font-family:'Roboto' !important;
+	line-height:1.1em;
+	color:#333;
+	margin-bottom: 20px;
+}
+h3, h4, h5, h6 { 
+	line-height:1.1em;
+	font-family:'Open Sans';
+	color:#333;
+	margin-bottom: 20px;
+}
+p{
+font-family:'Gill Sans';	
+}
