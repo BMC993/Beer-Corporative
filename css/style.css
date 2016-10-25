@@ -529,7 +529,7 @@ section.hero-text h1{
 /* page headline
 ==================================== */
 
-#inner-headline{background: #333333;position: relative;margin: 0;padding: 0;color: #1891EC;}
+#inner-headline{background: #333333;position: relative;margin: 0;padding: 0;color: #1891EC; margin-top:75px;}
 
 
 #inner-headline h2.pageTitle{
